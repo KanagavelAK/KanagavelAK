@@ -219,7 +219,7 @@ experience: AI Forward Intern @ QuodeSchool
 
 | 🏁 Event | 📅 When | 🛠 Built |
 |:---------|:-------:|:---------|
-| **RAP ML Hackathon – 🏆 Special Regconition** | Oct 2026 | [Ledger](https://github.com/KanagavelAK/ledger-pdf-agent) |
+| **RAP ML Hackathon – 🏆 Special Recognition** | Oct 2026 | [Ledger](https://github.com/KanagavelAK/ledger-pdf-agent) |
 | HackerRank Orchestrate | Oct 2026 | [Ghost Data Deletion Audit](https://github.com/KanagavelAK/ghost-data-deletion-audit) |
 | HackerRank Orchestrate | Aug 2026 | [RoutIQ](https://github.com/KanagavelAK/RoutIQ) |
 
